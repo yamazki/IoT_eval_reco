@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recommendList>
+  <targetCommunicationName>通信2</targetCommunicationName>
+  <type>communication</type>
+  <recommendCommunicationList>
+    <recommendCommunication>
+      <name>4G</name>
+      <type>遠距離高速通信</type>
+      <frequency>5GHz</frequency>
+      <distance>約5km</distance>
+      <speed>75Mbps~150Mbps</speed>
+      <topology>スター</topology>
+      <connections>100</connections>
+      <powerSaving>5</powerSaving>
+      <remarks>基地局と通信する</remarks>
+    </recommendCommunication>
+  </recommendCommunicationList>
+</recommendList>

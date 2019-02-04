@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<function>
+  <functionName>人感データ取得機能</functionName>
+  <processList>
+    <process>
+      <name>人感データ取得処理</name>
+      <processingTime>0</processingTime>
+      <communication>False</communication>
+    </process>
+    <process>
+      <name>人感データ整形処理</name>
+      <processingTime>0</processingTime>
+      <communication>False</communication>
+    </process>
+  </processList>
+  <totalProcessingTime>0</totalProcessingTime>
+</function>

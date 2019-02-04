@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<function>
+  <functionName>環境データ整形機能</functionName>
+  <processList>
+    <process>
+      <name>環境データ整形処理</name>
+      <processingTime>0</processingTime>
+      <communication>False</communication>
+    </process>
+    <process>
+      <name>通信1</name>
+      <processingTime>1.6E-07</processingTime>
+      <communication>True</communication>
+      <movement>True</movement>
+    </process>
+    <process>
+      <name>環境データ保存処理</name>
+      <processingTime>0</processingTime>
+      <communication>False</communication>
+    </process>
+  </processList>
+  <totalProcessingTime>1.6E-07</totalProcessingTime>
+</function>

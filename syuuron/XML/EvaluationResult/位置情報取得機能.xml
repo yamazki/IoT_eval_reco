@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<function>
+  <functionName>位置情報取得機能</functionName>
+  <processList>
+    <process>
+      <name>位置情報取得処理</name>
+      <processingTime>0</processingTime>
+      <communication>False</communication>
+    </process>
+    <process>
+      <name>位置情報整形処理</name>
+      <processingTime>0</processingTime>
+      <communication>False</communication>
+    </process>
+  </processList>
+  <totalProcessingTime>0</totalProcessingTime>
+</function>

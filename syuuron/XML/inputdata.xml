@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<inputData>
+    <functionLists>
+        <function>
+            <functionName>温度データ取得機能</functionName>
+            <component>温度データ取得処理</component>
+            <component>温度データ整形処理</component>
+        </function>   
+        <function>
+            <functionName>温度データ取得機能</functionName>
+            <component>湿度データ取得処理</component>
+            <component>湿度データ整形処理</component>
+        </function>   
+        <function>
+            <functionName>人感データ取得機能</functionName>
+            <component>人感データ取得処理</component>
+            <component>人感データ整形処理</component>
+        </function>   
+        <function>
+            <functionName>位置情報取得機能</functionName>
+            <component>位置情報取得処理</component>
+            <component>位置情報整形処理</component>
+        </function>   
+        <function>
+            <functionName>環境データ整形機能</functionName>
+            <component>環境データ整形処理</component>
+            <component>環境データ保存処理</component>
+        </function>   
+        <function>
+            <functionName>危険度マップ要求処理</functionName>
+            <component>危険度マップ要求処理</component>
+            <component>危険度判定処理</component>
+            <component>ユーザ情報取得処理</component>
+            <component>天気情報取得処理</component>
+            <component>危険度マップ作成処理</component>
+            <component>危険度マップ表示処理</component>
+        </function>   
+    </functionLists>    
+</inputData>
